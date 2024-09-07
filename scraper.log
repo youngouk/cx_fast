@@ -1,0 +1,1026 @@
+2024-09-03 18:14:24,055 - INFO - ====== WebDriver manager ======
+2024-09-03 18:14:24,198 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-03 18:14:24,267 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-03 18:14:24,301 - INFO - Driver [/Users/finda/.wdm/drivers/chromedriver/mac64/128.0.6613.119/chromedriver-mac-arm64/chromedriver] found in cache
+2024-09-03 18:14:31,645 - INFO - 중복 항목 건너뛰기: 1: 대환대출이나 직장인환승론 가능할까요?
+2024-09-03 18:14:31,669 - INFO - 중복 항목 건너뛰기: 2: 대출관련해서
+2024-09-03 18:14:31,691 - INFO - 중복 항목 건너뛰기: 3: 주택담보대출 갈아타기 정부인증...
+2024-09-03 18:14:31,719 - INFO - 중복 항목 건너뛰기: 4: 근로자 햇살론 질문이요 / 광고사절
+2024-09-03 18:14:31,740 - INFO - 중복 항목 건너뛰기: 5: 20살 대출 가능한 곳
+2024-09-03 18:14:31,768 - INFO - 중복 항목 건너뛰기: 6: 자동차담보대출
+2024-09-03 18:14:31,788 - INFO - 중복 항목 건너뛰기: 7: 비상금 대출 질문
+2024-09-03 18:14:31,807 - INFO - 중복 항목 건너뛰기: 8: 연체자 대출
+2024-09-03 18:14:31,837 - INFO - 중복 항목 건너뛰기: 9: 웰컴저축은행 자동차 담보대출 질문이요
+2024-09-03 18:14:31,860 - INFO - 중복 항목 건너뛰기: 10: 제가 토스랑 핀다로 대출 조회 jt저축은행
+2024-09-03 18:14:31,861 - INFO - 데이터베이스 최적화 시작
+2024-09-03 18:14:31,863 - INFO - 데이터베이스 최적화 완료
+2024-09-03 18:14:31,944 - INFO - 스크래핑 프로세스 종료
+2024-09-03 18:15:08,401 - INFO - ====== WebDriver manager ======
+2024-09-03 18:15:08,537 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-03 18:15:08,601 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-03 18:15:08,788 - INFO - Driver [/Users/finda/.wdm/drivers/chromedriver/mac64/128.0.6613.119/chromedriver-mac-arm64/chromedriver] found in cache
+2024-09-03 18:15:13,600 - INFO - 중복 항목 건너뛰기: 1: 대환대출이나 직장인환승론 가능할까요?
+2024-09-03 18:15:13,623 - INFO - 중복 항목 건너뛰기: 2: 대출관련해서
+2024-09-03 18:15:13,643 - INFO - 중복 항목 건너뛰기: 3: 주택담보대출 갈아타기 정부인증...
+2024-09-03 18:15:13,666 - INFO - 중복 항목 건너뛰기: 4: 근로자 햇살론 질문이요 / 광고사절
+2024-09-03 18:15:13,688 - INFO - 중복 항목 건너뛰기: 5: 20살 대출 가능한 곳
+2024-09-03 18:15:13,709 - INFO - 중복 항목 건너뛰기: 6: 자동차담보대출
+2024-09-03 18:15:13,730 - INFO - 중복 항목 건너뛰기: 7: 비상금 대출 질문
+2024-09-03 18:15:13,759 - INFO - 중복 항목 건너뛰기: 8: 연체자 대출
+2024-09-03 18:15:13,780 - INFO - 중복 항목 건너뛰기: 9: 웰컴저축은행 자동차 담보대출 질문이요
+2024-09-03 18:15:13,810 - INFO - 중복 항목 건너뛰기: 10: 제가 토스랑 핀다로 대출 조회 jt저축은행
+2024-09-03 18:15:13,811 - INFO - 데이터베이스 최적화 시작
+2024-09-03 18:15:13,812 - INFO - 데이터베이스 최적화 완료
+2024-09-03 18:15:13,895 - INFO - 스크래핑 프로세스 종료
+2024-09-03 18:15:31,258 - INFO - ====== WebDriver manager ======
+2024-09-03 18:15:31,354 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-03 18:15:31,403 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-03 18:15:31,439 - INFO - Driver [/Users/finda/.wdm/drivers/chromedriver/mac64/128.0.6613.119/chromedriver-mac-arm64/chromedriver] found in cache
+2024-09-03 18:15:35,624 - INFO - 기본 정보 저장 성공: 1 - 대환대출이나 직장인환승론 가능할까요?
+2024-09-03 18:15:35,645 - INFO - 기본 정보 저장 성공: 2 - 대출관련해서
+2024-09-03 18:15:35,668 - INFO - 기본 정보 저장 성공: 3 - 주택담보대출 갈아타기 정부인증...
+2024-09-03 18:15:35,691 - INFO - 기본 정보 저장 성공: 4 - 근로자 햇살론 질문이요 / 광고사절
+2024-09-03 18:15:35,711 - INFO - 기본 정보 저장 성공: 5 - 20살 대출 가능한 곳
+2024-09-03 18:15:35,739 - INFO - 기본 정보 저장 성공: 6 - 자동차담보대출
+2024-09-03 18:15:35,760 - INFO - 기본 정보 저장 성공: 7 - 비상금 대출 질문
+2024-09-03 18:15:35,780 - INFO - 기본 정보 저장 성공: 8 - 연체자 대출
+2024-09-03 18:15:35,802 - INFO - 기본 정보 저장 성공: 9 - 웰컴저축은행 자동차 담보대출 질문이요
+2024-09-03 18:15:35,823 - INFO - 기본 정보 저장 성공: 10 - 제가 토스랑 핀다로 대출 조회 jt저축은행
+2024-09-03 18:15:36,619 - INFO - ID 15의 상세 정보 업데이트 성공
+2024-09-03 18:15:36,636 - INFO - ID 13의 상세 정보 업데이트 성공
+2024-09-03 18:15:36,640 - INFO - ID 14의 상세 정보 업데이트 성공
+2024-09-03 18:15:36,645 - INFO - ID 17의 상세 정보 업데이트 성공
+2024-09-03 18:15:36,648 - INFO - ID 16의 상세 정보 업데이트 성공
+2024-09-03 18:15:37,170 - INFO - ID 18의 상세 정보 업데이트 성공
+2024-09-03 18:15:37,181 - INFO - ID 19의 상세 정보 업데이트 성공
+2024-09-03 18:15:37,183 - INFO - ID 21의 상세 정보 업데이트 성공
+2024-09-03 18:15:37,193 - INFO - ID 22의 상세 정보 업데이트 성공
+2024-09-03 18:15:37,207 - INFO - ID 20의 상세 정보 업데이트 성공
+2024-09-03 18:15:37,208 - INFO - 데이터베이스 최적화 시작
+2024-09-03 18:15:37,209 - INFO - 데이터베이스 최적화 완료
+2024-09-03 18:15:37,297 - INFO - 스크래핑 프로세스 종료
+2024-09-03 18:17:16,643 - INFO - 스크래핑 프로세스 시작
+2024-09-03 18:17:16,644 - INFO - 데이터베이스 및 WebDriver 초기화 시작
+2024-09-03 18:17:16,645 - INFO - ====== WebDriver manager ======
+2024-09-03 18:17:16,785 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-03 18:17:16,790 - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2024-09-03 18:17:16,823 - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 7051
+2024-09-03 18:17:16,826 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-03 18:17:16,827 - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2024-09-03 18:17:16,859 - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 7051
+2024-09-03 18:17:16,862 - INFO - Driver [/Users/finda/.wdm/drivers/chromedriver/mac64/128.0.6613.119/chromedriver-mac-arm64/chromedriver] found in cache
+2024-09-03 18:17:16,862 - DEBUG - Skipping Selenium Manager; path to chrome driver specified in Service class: /Users/finda/.wdm/drivers/chromedriver/mac64/128.0.6613.119/chromedriver-mac-arm64/chromedriver
+2024-09-03 18:17:16,865 - DEBUG - Started executable: `/Users/finda/.wdm/drivers/chromedriver/mac64/128.0.6613.119/chromedriver-mac-arm64/chromedriver` in a child process with pid: 65227 using 0 to output -3
+2024-09-03 18:17:17,222 - DEBUG - POST http://localhost:61684/session {'capabilities': {'firstMatch': [{}], 'alwaysMatch': {'browserName': 'chrome', 'pageLoadStrategy': <PageLoadStrategy.normal: 'normal'>, 'goog:chromeOptions': {'extensions': [], 'args': ['user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36']}}}}
+2024-09-03 18:17:17,223 - DEBUG - Starting new HTTP connection (1): localhost:61684
+2024-09-03 18:17:18,478 - DEBUG - http://localhost:61684 "POST /session HTTP/1.1" 200 892
+2024-09-03 18:17:18,479 - DEBUG - Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"128.0.6613.114","chrome":{"chromedriverVersion":"128.0.6613.119 (6e439cfca4deda5954b0c74cde9b521c03cb31ad-refs/branch-heads/6613@{#1464})","userDataDir":"/var/folders/wl/04j8pjwj5_7_pqh37yjh1mkr0000gn/T/.org.chromium.Chromium.V9t5Mz"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:61702"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"mac","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"3c6799454c28adde34c1d6d0280345bb"}} | headers=HTTPHeaderDict({'Content-Length': '892', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:18,479 - DEBUG - Finished Request
+2024-09-03 18:17:18,479 - INFO - 데이터베이스 및 WebDriver 초기화 완료
+2024-09-03 18:17:18,479 - INFO - 검색 URL 접근 시작: https://kin.naver.com/search/list.naver?query=%ED%95%80%EB%8B%A4&section=qna&period=1w&dirId=4&sort=date
+2024-09-03 18:17:18,479 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/url {'url': 'https://kin.naver.com/search/list.naver?query=%ED%95%80%EB%8B%A4&section=qna&period=1w&dirId=4&sort=...'}
+2024-09-03 18:17:21,632 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/url HTTP/1.1" 200 14
+2024-09-03 18:17:21,632 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,632 - DEBUG - Finished Request
+2024-09-03 18:17:21,632 - INFO - 검색 결과 페이지 로드 완료
+2024-09-03 18:17:21,632 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element {'using': 'css selector', 'value': '.basic1'}
+2024-09-03 18:17:21,642 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element HTTP/1.1" 200 126
+2024-09-03 18:17:21,642 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.73"}} | headers=HTTPHeaderDict({'Content-Length': '126', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,642 - DEBUG - Finished Request
+2024-09-03 18:17:21,642 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.73/elements {'using': 'tag name', 'value': 'li'}
+2024-09-03 18:17:21,648 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.73/elements HTTP/1.1" 200 1181
+2024-09-03 18:17:21,649 - DEBUG - Remote response: status=200 | data={"value":[{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.74"},{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.75"},{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.76"},{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.77"},{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.78"},{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.79"},{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.80"},{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.81"},{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.82"},{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.83"}]} | headers=HTTPHeaderDict({'Content-Length': '1181', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,649 - DEBUG - Finished Request
+2024-09-03 18:17:21,649 - INFO - 검색 결과 항목 수: 10
+2024-09-03 18:17:21,649 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.74/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:17:21,655 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.74/element HTTP/1.1" 200 126
+2024-09-03 18:17:21,655 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.84"}} | headers=HTTPHeaderDict({'Content-Length': '126', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,655 - DEBUG - Finished Request
+2024-09-03 18:17:21,655 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.84/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:17:21,662 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.84/element HTTP/1.1" 200 126
+2024-09-03 18:17:21,662 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.85"}} | headers=HTTPHeaderDict({'Content-Length': '126', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,663 - DEBUG - Finished Request
+2024-09-03 18:17:21,663 - DEBUG - GET http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.85/text {}
+2024-09-03 18:17:21,675 - DEBUG - http://localhost:61684 "GET /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.85/text HTTP/1.1" 200 66
+2024-09-03 18:17:21,675 - DEBUG - Remote response: status=200 | data={"value":"대환대출이나 직장인환승론 가능할까요?"} | headers=HTTPHeaderDict({'Content-Length': '66', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,675 - DEBUG - Finished Request
+2024-09-03 18:17:21,675 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.85'}, 'href']}
+2024-09-03 18:17:21,681 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:17:21,681 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=474858315&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=1&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,681 - DEBUG - Finished Request
+2024-09-03 18:17:21,681 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.74/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:17:21,686 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.74/element HTTP/1.1" 200 126
+2024-09-03 18:17:21,686 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.86"}} | headers=HTTPHeaderDict({'Content-Length': '126', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,686 - DEBUG - Finished Request
+2024-09-03 18:17:21,687 - DEBUG - GET http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.86/text {}
+2024-09-03 18:17:21,690 - DEBUG - http://localhost:61684 "GET /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.86/text HTTP/1.1" 200 23
+2024-09-03 18:17:21,690 - DEBUG - Remote response: status=200 | data={"value":"2024.09.03."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,690 - DEBUG - Finished Request
+2024-09-03 18:17:21,690 - DEBUG - 항목 1 처리 중: 제목 - 대환대출이나 직장인환승론 가능할까요?, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=474858315&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=1&search_sort=3&spq=0
+2024-09-03 18:17:21,690 - INFO - 중복 항목 건너뛰기: 1: 대환대출이나 직장인환승론 가능할까요?
+2024-09-03 18:17:21,691 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.75/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:17:21,694 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.75/element HTTP/1.1" 200 126
+2024-09-03 18:17:21,694 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.87"}} | headers=HTTPHeaderDict({'Content-Length': '126', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,694 - DEBUG - Finished Request
+2024-09-03 18:17:21,694 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.87/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:17:21,698 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.87/element HTTP/1.1" 200 126
+2024-09-03 18:17:21,698 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.93"}} | headers=HTTPHeaderDict({'Content-Length': '126', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,698 - DEBUG - Finished Request
+2024-09-03 18:17:21,698 - DEBUG - GET http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.93/text {}
+2024-09-03 18:17:21,702 - DEBUG - http://localhost:61684 "GET /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.93/text HTTP/1.1" 200 30
+2024-09-03 18:17:21,702 - DEBUG - Remote response: status=200 | data={"value":"대출관련해서"} | headers=HTTPHeaderDict({'Content-Length': '30', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,702 - DEBUG - Finished Request
+2024-09-03 18:17:21,702 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.93'}, 'href']}
+2024-09-03 18:17:21,705 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:17:21,705 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010506&docId=474851084&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=2&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,705 - DEBUG - Finished Request
+2024-09-03 18:17:21,705 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.75/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:17:21,708 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.75/element HTTP/1.1" 200 126
+2024-09-03 18:17:21,708 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.94"}} | headers=HTTPHeaderDict({'Content-Length': '126', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,708 - DEBUG - Finished Request
+2024-09-03 18:17:21,708 - DEBUG - GET http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.94/text {}
+2024-09-03 18:17:21,712 - DEBUG - http://localhost:61684 "GET /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.94/text HTTP/1.1" 200 23
+2024-09-03 18:17:21,712 - DEBUG - Remote response: status=200 | data={"value":"2024.09.03."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,712 - DEBUG - Finished Request
+2024-09-03 18:17:21,712 - DEBUG - 항목 2 처리 중: 제목 - 대출관련해서, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010506&docId=474851084&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=2&search_sort=3&spq=0
+2024-09-03 18:17:21,712 - INFO - 중복 항목 건너뛰기: 2: 대출관련해서
+2024-09-03 18:17:21,712 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.76/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:17:21,722 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.76/element HTTP/1.1" 200 126
+2024-09-03 18:17:21,722 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.95"}} | headers=HTTPHeaderDict({'Content-Length': '126', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,722 - DEBUG - Finished Request
+2024-09-03 18:17:21,722 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.95/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:17:21,726 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.95/element HTTP/1.1" 200 126
+2024-09-03 18:17:21,726 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.96"}} | headers=HTTPHeaderDict({'Content-Length': '126', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,726 - DEBUG - Finished Request
+2024-09-03 18:17:21,726 - DEBUG - GET http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.96/text {}
+2024-09-03 18:17:21,731 - DEBUG - http://localhost:61684 "GET /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.96/text HTTP/1.1" 200 59
+2024-09-03 18:17:21,731 - DEBUG - Remote response: status=200 | data={"value":"주택담보대출 갈아타기 정부인증..."} | headers=HTTPHeaderDict({'Content-Length': '59', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,731 - DEBUG - Finished Request
+2024-09-03 18:17:21,731 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.96'}, 'href']}
+2024-09-03 18:17:21,735 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:17:21,735 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474656191&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=3&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,735 - DEBUG - Finished Request
+2024-09-03 18:17:21,735 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.76/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:17:21,738 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.76/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,738 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.100"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,738 - DEBUG - Finished Request
+2024-09-03 18:17:21,738 - DEBUG - GET http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.100/text {}
+2024-09-03 18:17:21,742 - DEBUG - http://localhost:61684 "GET /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.100/text HTTP/1.1" 200 23
+2024-09-03 18:17:21,742 - DEBUG - Remote response: status=200 | data={"value":"2024.08.30."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,742 - DEBUG - Finished Request
+2024-09-03 18:17:21,742 - DEBUG - 항목 3 처리 중: 제목 - 주택담보대출 갈아타기 정부인증..., URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474656191&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=3&search_sort=3&spq=0
+2024-09-03 18:17:21,742 - INFO - 중복 항목 건너뛰기: 3: 주택담보대출 갈아타기 정부인증...
+2024-09-03 18:17:21,742 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.77/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:17:21,748 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.77/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,748 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.101"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,748 - DEBUG - Finished Request
+2024-09-03 18:17:21,748 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.101/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:17:21,752 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.101/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,752 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.102"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,752 - DEBUG - Finished Request
+2024-09-03 18:17:21,752 - DEBUG - GET http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.102/text {}
+2024-09-03 18:17:21,756 - DEBUG - http://localhost:61684 "GET /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.102/text HTTP/1.1" 200 59
+2024-09-03 18:17:21,756 - DEBUG - Remote response: status=200 | data={"value":"근로자 햇살론 질문이요 / 광고사절"} | headers=HTTPHeaderDict({'Content-Length': '59', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,756 - DEBUG - Finished Request
+2024-09-03 18:17:21,756 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.102'}, 'href']}
+2024-09-03 18:17:21,758 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:17:21,759 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=474629675&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=4&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,759 - DEBUG - Finished Request
+2024-09-03 18:17:21,759 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.77/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:17:21,762 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.77/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,762 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.103"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,762 - DEBUG - Finished Request
+2024-09-03 18:17:21,762 - DEBUG - GET http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.103/text {}
+2024-09-03 18:17:21,766 - DEBUG - http://localhost:61684 "GET /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.103/text HTTP/1.1" 200 23
+2024-09-03 18:17:21,767 - DEBUG - Remote response: status=200 | data={"value":"2024.08.29."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,767 - DEBUG - Finished Request
+2024-09-03 18:17:21,767 - DEBUG - 항목 4 처리 중: 제목 - 근로자 햇살론 질문이요 / 광고사절, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=474629675&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=4&search_sort=3&spq=0
+2024-09-03 18:17:21,767 - INFO - 중복 항목 건너뛰기: 4: 근로자 햇살론 질문이요 / 광고사절
+2024-09-03 18:17:21,767 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.78/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:17:21,770 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.78/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,770 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.104"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,770 - DEBUG - Finished Request
+2024-09-03 18:17:21,770 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.104/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:17:21,773 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.104/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,773 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.105"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,773 - DEBUG - Finished Request
+2024-09-03 18:17:21,773 - DEBUG - GET http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.105/text {}
+2024-09-03 18:17:21,777 - DEBUG - http://localhost:61684 "GET /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.105/text HTTP/1.1" 200 38
+2024-09-03 18:17:21,777 - DEBUG - Remote response: status=200 | data={"value":"20살 대출 가능한 곳"} | headers=HTTPHeaderDict({'Content-Length': '38', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,777 - DEBUG - Finished Request
+2024-09-03 18:17:21,777 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.105'}, 'href']}
+2024-09-03 18:17:21,782 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:17:21,782 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010504&docId=474605765&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=5&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,782 - DEBUG - Finished Request
+2024-09-03 18:17:21,782 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.78/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:17:21,785 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.78/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,786 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.106"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,786 - DEBUG - Finished Request
+2024-09-03 18:17:21,786 - DEBUG - GET http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.106/text {}
+2024-09-03 18:17:21,790 - DEBUG - http://localhost:61684 "GET /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.106/text HTTP/1.1" 200 23
+2024-09-03 18:17:21,790 - DEBUG - Remote response: status=200 | data={"value":"2024.08.29."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,790 - DEBUG - Finished Request
+2024-09-03 18:17:21,790 - DEBUG - 항목 5 처리 중: 제목 - 20살 대출 가능한 곳, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010504&docId=474605765&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=5&search_sort=3&spq=0
+2024-09-03 18:17:21,790 - INFO - 중복 항목 건너뛰기: 5: 20살 대출 가능한 곳
+2024-09-03 18:17:21,790 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.79/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:17:21,794 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.79/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,794 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.107"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,794 - DEBUG - Finished Request
+2024-09-03 18:17:21,794 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.107/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:17:21,798 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.107/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,798 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.108"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,798 - DEBUG - Finished Request
+2024-09-03 18:17:21,798 - DEBUG - GET http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.108/text {}
+2024-09-03 18:17:21,803 - DEBUG - http://localhost:61684 "GET /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.108/text HTTP/1.1" 200 33
+2024-09-03 18:17:21,804 - DEBUG - Remote response: status=200 | data={"value":"자동차담보대출"} | headers=HTTPHeaderDict({'Content-Length': '33', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,805 - DEBUG - Finished Request
+2024-09-03 18:17:21,805 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.108'}, 'href']}
+2024-09-03 18:17:21,807 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:17:21,808 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474580414&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=6&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,808 - DEBUG - Finished Request
+2024-09-03 18:17:21,808 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.79/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:17:21,812 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.79/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,812 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.109"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,813 - DEBUG - Finished Request
+2024-09-03 18:17:21,813 - DEBUG - GET http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.109/text {}
+2024-09-03 18:17:21,818 - DEBUG - http://localhost:61684 "GET /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.109/text HTTP/1.1" 200 23
+2024-09-03 18:17:21,818 - DEBUG - Remote response: status=200 | data={"value":"2024.08.28."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,818 - DEBUG - Finished Request
+2024-09-03 18:17:21,818 - DEBUG - 항목 6 처리 중: 제목 - 자동차담보대출, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474580414&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=6&search_sort=3&spq=0
+2024-09-03 18:17:21,818 - INFO - 중복 항목 건너뛰기: 6: 자동차담보대출
+2024-09-03 18:17:21,818 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.80/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:17:21,822 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.80/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,822 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.110"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,822 - DEBUG - Finished Request
+2024-09-03 18:17:21,822 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.110/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:17:21,825 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.110/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,825 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.111"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,825 - DEBUG - Finished Request
+2024-09-03 18:17:21,825 - DEBUG - GET http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.111/text {}
+2024-09-03 18:17:21,828 - DEBUG - http://localhost:61684 "GET /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.111/text HTTP/1.1" 200 35
+2024-09-03 18:17:21,829 - DEBUG - Remote response: status=200 | data={"value":"비상금 대출 질문"} | headers=HTTPHeaderDict({'Content-Length': '35', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,829 - DEBUG - Finished Request
+2024-09-03 18:17:21,829 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.111'}, 'href']}
+2024-09-03 18:17:21,832 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:17:21,832 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474517530&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=7&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,832 - DEBUG - Finished Request
+2024-09-03 18:17:21,832 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.80/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:17:21,836 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.80/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,836 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.112"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,836 - DEBUG - Finished Request
+2024-09-03 18:17:21,836 - DEBUG - GET http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.112/text {}
+2024-09-03 18:17:21,840 - DEBUG - http://localhost:61684 "GET /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.112/text HTTP/1.1" 200 23
+2024-09-03 18:17:21,840 - DEBUG - Remote response: status=200 | data={"value":"2024.08.27."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,840 - DEBUG - Finished Request
+2024-09-03 18:17:21,840 - DEBUG - 항목 7 처리 중: 제목 - 비상금 대출 질문, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474517530&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=7&search_sort=3&spq=0
+2024-09-03 18:17:21,840 - INFO - 중복 항목 건너뛰기: 7: 비상금 대출 질문
+2024-09-03 18:17:21,840 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.81/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:17:21,843 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.81/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,844 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.113"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,844 - DEBUG - Finished Request
+2024-09-03 18:17:21,844 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.113/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:17:21,848 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.113/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,848 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.114"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,848 - DEBUG - Finished Request
+2024-09-03 18:17:21,848 - DEBUG - GET http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.114/text {}
+2024-09-03 18:17:21,852 - DEBUG - http://localhost:61684 "GET /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.114/text HTTP/1.1" 200 28
+2024-09-03 18:17:21,852 - DEBUG - Remote response: status=200 | data={"value":"연체자 대출"} | headers=HTTPHeaderDict({'Content-Length': '28', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,852 - DEBUG - Finished Request
+2024-09-03 18:17:21,852 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.114'}, 'href']}
+2024-09-03 18:17:21,855 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:17:21,855 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=473677107&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=8&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,855 - DEBUG - Finished Request
+2024-09-03 18:17:21,855 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.81/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:17:21,858 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.81/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,859 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.115"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,859 - DEBUG - Finished Request
+2024-09-03 18:17:21,859 - DEBUG - GET http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.115/text {}
+2024-09-03 18:17:21,863 - DEBUG - http://localhost:61684 "GET /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.115/text HTTP/1.1" 200 23
+2024-09-03 18:17:21,863 - DEBUG - Remote response: status=200 | data={"value":"2024.08.29."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,863 - DEBUG - Finished Request
+2024-09-03 18:17:21,863 - DEBUG - 항목 8 처리 중: 제목 - 연체자 대출, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=473677107&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=8&search_sort=3&spq=0
+2024-09-03 18:17:21,863 - INFO - 중복 항목 건너뛰기: 8: 연체자 대출
+2024-09-03 18:17:21,863 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.82/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:17:21,867 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.82/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,867 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.116"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,867 - DEBUG - Finished Request
+2024-09-03 18:17:21,867 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.116/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:17:21,871 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.116/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,871 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.117"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,871 - DEBUG - Finished Request
+2024-09-03 18:17:21,871 - DEBUG - GET http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.117/text {}
+2024-09-03 18:17:21,875 - DEBUG - http://localhost:61684 "GET /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.117/text HTTP/1.1" 200 66
+2024-09-03 18:17:21,875 - DEBUG - Remote response: status=200 | data={"value":"웰컴저축은행 자동차 담보대출 질문이요"} | headers=HTTPHeaderDict({'Content-Length': '66', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,875 - DEBUG - Finished Request
+2024-09-03 18:17:21,875 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.117'}, 'href']}
+2024-09-03 18:17:21,878 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:17:21,878 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=465301629&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=9&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,878 - DEBUG - Finished Request
+2024-09-03 18:17:21,878 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.82/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:17:21,884 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.82/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,884 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.118"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,884 - DEBUG - Finished Request
+2024-09-03 18:17:21,884 - DEBUG - GET http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.118/text {}
+2024-09-03 18:17:21,888 - DEBUG - http://localhost:61684 "GET /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.118/text HTTP/1.1" 200 23
+2024-09-03 18:17:21,888 - DEBUG - Remote response: status=200 | data={"value":"2024.08.29."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,888 - DEBUG - Finished Request
+2024-09-03 18:17:21,888 - DEBUG - 항목 9 처리 중: 제목 - 웰컴저축은행 자동차 담보대출 질문이요, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=465301629&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=9&search_sort=3&spq=0
+2024-09-03 18:17:21,888 - INFO - 중복 항목 건너뛰기: 9: 웰컴저축은행 자동차 담보대출 질문이요
+2024-09-03 18:17:21,888 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.83/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:17:21,892 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.83/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,892 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.119"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,892 - DEBUG - Finished Request
+2024-09-03 18:17:21,892 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.119/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:17:21,895 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.119/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,895 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.120"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,895 - DEBUG - Finished Request
+2024-09-03 18:17:21,895 - DEBUG - GET http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.120/text {}
+2024-09-03 18:17:21,900 - DEBUG - http://localhost:61684 "GET /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.120/text HTTP/1.1" 200 67
+2024-09-03 18:17:21,900 - DEBUG - Remote response: status=200 | data={"value":"제가 토스랑 핀다로 대출 조회 jt저축은행"} | headers=HTTPHeaderDict({'Content-Length': '67', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,900 - DEBUG - Finished Request
+2024-09-03 18:17:21,900 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.120'}, 'href']}
+2024-09-03 18:17:21,903 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/execute/sync HTTP/1.1" 200 152
+2024-09-03 18:17:21,903 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=426661335&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=10&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '152', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,903 - DEBUG - Finished Request
+2024-09-03 18:17:21,903 - DEBUG - POST http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.83/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:17:21,906 - DEBUG - http://localhost:61684 "POST /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.83/element HTTP/1.1" 200 127
+2024-09-03 18:17:21,906 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.121"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,906 - DEBUG - Finished Request
+2024-09-03 18:17:21,906 - DEBUG - GET http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.121/text {}
+2024-09-03 18:17:21,910 - DEBUG - http://localhost:61684 "GET /session/3c6799454c28adde34c1d6d0280345bb/element/f.1BE5D844264006CAF4F0422B57822DF2.d.ACB4F2DD36904E4EC1ABDDB4C45192AC.e.121/text HTTP/1.1" 200 23
+2024-09-03 18:17:21,910 - DEBUG - Remote response: status=200 | data={"value":"2024.08.28."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,910 - DEBUG - Finished Request
+2024-09-03 18:17:21,910 - DEBUG - 항목 10 처리 중: 제목 - 제가 토스랑 핀다로 대출 조회 jt저축은행, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=426661335&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=10&search_sort=3&spq=0
+2024-09-03 18:17:21,910 - INFO - 중복 항목 건너뛰기: 10: 제가 토스랑 핀다로 대출 조회 jt저축은행
+2024-09-03 18:17:21,910 - INFO - 상세 정보 처리 시작
+2024-09-03 18:17:21,910 - INFO - 처리할 항목 수: 0
+2024-09-03 18:17:21,912 - INFO - 상세 정보 처리 완료
+2024-09-03 18:17:21,912 - INFO - 데이터베이스 최적화 시작
+2024-09-03 18:17:21,913 - INFO - 데이터베이스 최적화 완료
+2024-09-03 18:17:21,913 - INFO - 스크래핑 프로세스 정상 종료
+2024-09-03 18:17:21,913 - DEBUG - DELETE http://localhost:61684/session/3c6799454c28adde34c1d6d0280345bb {}
+2024-09-03 18:17:21,972 - DEBUG - http://localhost:61684 "DELETE /session/3c6799454c28adde34c1d6d0280345bb HTTP/1.1" 200 14
+2024-09-03 18:17:21,972 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:17:21,972 - DEBUG - Finished Request
+2024-09-03 18:17:21,996 - INFO - WebDriver 종료
+2024-09-03 18:17:21,996 - INFO - 데이터베이스 연결 종료
+2024-09-03 18:22:49,966 - INFO - 스크래핑 프로세스 시작
+2024-09-03 18:22:49,967 - INFO - 데이터베이스 및 WebDriver 초기화 시작
+2024-09-03 18:22:49,970 - INFO - ====== WebDriver manager ======
+2024-09-03 18:22:50,124 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-03 18:22:50,130 - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2024-09-03 18:22:50,208 - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 7051
+2024-09-03 18:22:50,220 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-03 18:22:50,221 - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2024-09-03 18:22:50,254 - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 7051
+2024-09-03 18:22:50,259 - INFO - Driver [/Users/finda/.wdm/drivers/chromedriver/mac64/128.0.6613.119/chromedriver-mac-arm64/chromedriver] found in cache
+2024-09-03 18:22:50,259 - DEBUG - Skipping Selenium Manager; path to chrome driver specified in Service class: /Users/finda/.wdm/drivers/chromedriver/mac64/128.0.6613.119/chromedriver-mac-arm64/chromedriver
+2024-09-03 18:22:50,263 - DEBUG - Started executable: `/Users/finda/.wdm/drivers/chromedriver/mac64/128.0.6613.119/chromedriver-mac-arm64/chromedriver` in a child process with pid: 65801 using 0 to output -3
+2024-09-03 18:22:50,626 - DEBUG - POST http://localhost:63524/session {'capabilities': {'firstMatch': [{}], 'alwaysMatch': {'browserName': 'chrome', 'pageLoadStrategy': <PageLoadStrategy.normal: 'normal'>, 'goog:chromeOptions': {'extensions': [], 'args': ['user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36']}}}}
+2024-09-03 18:22:50,627 - DEBUG - Starting new HTTP connection (1): localhost:63524
+2024-09-03 18:22:51,899 - DEBUG - http://localhost:63524 "POST /session HTTP/1.1" 200 892
+2024-09-03 18:22:51,900 - DEBUG - Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"128.0.6613.114","chrome":{"chromedriverVersion":"128.0.6613.119 (6e439cfca4deda5954b0c74cde9b521c03cb31ad-refs/branch-heads/6613@{#1464})","userDataDir":"/var/folders/wl/04j8pjwj5_7_pqh37yjh1mkr0000gn/T/.org.chromium.Chromium.2fLMU4"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:63541"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"mac","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"d95cd25f23de22610ea4dc95034f4b94"}} | headers=HTTPHeaderDict({'Content-Length': '892', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:51,901 - DEBUG - Finished Request
+2024-09-03 18:22:51,903 - INFO - 데이터베이스 및 WebDriver 초기화 완료
+2024-09-03 18:22:51,904 - INFO - 검색 URL 접근 시작: https://kin.naver.com/search/list.naver?query=%ED%95%80%EB%8B%A4&section=qna&period=1w&dirId=4&sort=date
+2024-09-03 18:22:51,904 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/url {'url': 'https://kin.naver.com/search/list.naver?query=%ED%95%80%EB%8B%A4&section=qna&period=1w&dirId=4&sort=...'}
+2024-09-03 18:22:54,210 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/url HTTP/1.1" 200 14
+2024-09-03 18:22:54,210 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,210 - DEBUG - Finished Request
+2024-09-03 18:22:54,210 - INFO - 검색 결과 페이지 로드 완료
+2024-09-03 18:22:54,210 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element {'using': 'css selector', 'value': '.basic1'}
+2024-09-03 18:22:54,218 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element HTTP/1.1" 200 126
+2024-09-03 18:22:54,218 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.97"}} | headers=HTTPHeaderDict({'Content-Length': '126', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,218 - DEBUG - Finished Request
+2024-09-03 18:22:54,218 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.97/elements {'using': 'tag name', 'value': 'li'}
+2024-09-03 18:22:54,226 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.97/elements HTTP/1.1" 200 1189
+2024-09-03 18:22:54,227 - DEBUG - Remote response: status=200 | data={"value":[{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.98"},{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.99"},{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.100"},{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.101"},{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.102"},{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.103"},{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.104"},{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.105"},{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.106"},{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.107"}]} | headers=HTTPHeaderDict({'Content-Length': '1189', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,227 - DEBUG - Finished Request
+2024-09-03 18:22:54,227 - INFO - 검색 결과 항목 수: 10
+2024-09-03 18:22:54,227 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.98/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:22:54,237 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.98/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,237 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.108"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,237 - DEBUG - Finished Request
+2024-09-03 18:22:54,237 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.108/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:22:54,243 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.108/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,243 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.109"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,243 - DEBUG - Finished Request
+2024-09-03 18:22:54,244 - DEBUG - GET http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.109/text {}
+2024-09-03 18:22:54,267 - DEBUG - http://localhost:63524 "GET /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.109/text HTTP/1.1" 200 66
+2024-09-03 18:22:54,267 - DEBUG - Remote response: status=200 | data={"value":"대환대출이나 직장인환승론 가능할까요?"} | headers=HTTPHeaderDict({'Content-Length': '66', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,267 - DEBUG - Finished Request
+2024-09-03 18:22:54,268 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.109'}, 'href']}
+2024-09-03 18:22:54,272 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:22:54,272 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=474858315&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=1&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,272 - DEBUG - Finished Request
+2024-09-03 18:22:54,272 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.98/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:22:54,280 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.98/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,281 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.110"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,281 - DEBUG - Finished Request
+2024-09-03 18:22:54,281 - DEBUG - GET http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.110/text {}
+2024-09-03 18:22:54,285 - DEBUG - http://localhost:63524 "GET /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.110/text HTTP/1.1" 200 23
+2024-09-03 18:22:54,285 - DEBUG - Remote response: status=200 | data={"value":"2024.09.03."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,285 - DEBUG - Finished Request
+2024-09-03 18:22:54,285 - DEBUG - 항목 1 처리 중: 제목 - 대환대출이나 직장인환승론 가능할까요?, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=474858315&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=1&search_sort=3&spq=0
+2024-09-03 18:22:54,286 - INFO - 중복 항목 건너뛰기: 1: 대환대출이나 직장인환승론 가능할까요?
+2024-09-03 18:22:54,286 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.99/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:22:54,289 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.99/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,290 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.111"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,290 - DEBUG - Finished Request
+2024-09-03 18:22:54,290 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.111/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:22:54,294 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.111/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,294 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.112"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,294 - DEBUG - Finished Request
+2024-09-03 18:22:54,294 - DEBUG - GET http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.112/text {}
+2024-09-03 18:22:54,298 - DEBUG - http://localhost:63524 "GET /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.112/text HTTP/1.1" 200 30
+2024-09-03 18:22:54,298 - DEBUG - Remote response: status=200 | data={"value":"대출관련해서"} | headers=HTTPHeaderDict({'Content-Length': '30', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,298 - DEBUG - Finished Request
+2024-09-03 18:22:54,299 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.112'}, 'href']}
+2024-09-03 18:22:54,302 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:22:54,302 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010506&docId=474851084&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=2&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,302 - DEBUG - Finished Request
+2024-09-03 18:22:54,302 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.99/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:22:54,305 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.99/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,305 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.113"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,305 - DEBUG - Finished Request
+2024-09-03 18:22:54,305 - DEBUG - GET http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.113/text {}
+2024-09-03 18:22:54,311 - DEBUG - http://localhost:63524 "GET /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.113/text HTTP/1.1" 200 23
+2024-09-03 18:22:54,311 - DEBUG - Remote response: status=200 | data={"value":"2024.09.03."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,311 - DEBUG - Finished Request
+2024-09-03 18:22:54,311 - DEBUG - 항목 2 처리 중: 제목 - 대출관련해서, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010506&docId=474851084&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=2&search_sort=3&spq=0
+2024-09-03 18:22:54,311 - INFO - 중복 항목 건너뛰기: 2: 대출관련해서
+2024-09-03 18:22:54,311 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.100/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:22:54,314 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.100/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,315 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.117"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,315 - DEBUG - Finished Request
+2024-09-03 18:22:54,315 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.117/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:22:54,318 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.117/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,318 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.118"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,318 - DEBUG - Finished Request
+2024-09-03 18:22:54,318 - DEBUG - GET http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.118/text {}
+2024-09-03 18:22:54,322 - DEBUG - http://localhost:63524 "GET /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.118/text HTTP/1.1" 200 59
+2024-09-03 18:22:54,322 - DEBUG - Remote response: status=200 | data={"value":"주택담보대출 갈아타기 정부인증..."} | headers=HTTPHeaderDict({'Content-Length': '59', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,322 - DEBUG - Finished Request
+2024-09-03 18:22:54,322 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.118'}, 'href']}
+2024-09-03 18:22:54,324 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:22:54,324 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474656191&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=3&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,324 - DEBUG - Finished Request
+2024-09-03 18:22:54,324 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.100/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:22:54,328 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.100/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,328 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.119"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,328 - DEBUG - Finished Request
+2024-09-03 18:22:54,329 - DEBUG - GET http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.119/text {}
+2024-09-03 18:22:54,332 - DEBUG - http://localhost:63524 "GET /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.119/text HTTP/1.1" 200 23
+2024-09-03 18:22:54,333 - DEBUG - Remote response: status=200 | data={"value":"2024.08.30."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,333 - DEBUG - Finished Request
+2024-09-03 18:22:54,333 - DEBUG - 항목 3 처리 중: 제목 - 주택담보대출 갈아타기 정부인증..., URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474656191&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=3&search_sort=3&spq=0
+2024-09-03 18:22:54,333 - INFO - 중복 항목 건너뛰기: 3: 주택담보대출 갈아타기 정부인증...
+2024-09-03 18:22:54,333 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.101/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:22:54,337 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.101/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,337 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.120"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,337 - DEBUG - Finished Request
+2024-09-03 18:22:54,337 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.120/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:22:54,343 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.120/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,343 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.121"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,343 - DEBUG - Finished Request
+2024-09-03 18:22:54,343 - DEBUG - GET http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.121/text {}
+2024-09-03 18:22:54,347 - DEBUG - http://localhost:63524 "GET /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.121/text HTTP/1.1" 200 59
+2024-09-03 18:22:54,347 - DEBUG - Remote response: status=200 | data={"value":"근로자 햇살론 질문이요 / 광고사절"} | headers=HTTPHeaderDict({'Content-Length': '59', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,347 - DEBUG - Finished Request
+2024-09-03 18:22:54,347 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.121'}, 'href']}
+2024-09-03 18:22:54,350 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:22:54,350 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=474629675&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=4&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,350 - DEBUG - Finished Request
+2024-09-03 18:22:54,350 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.101/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:22:54,354 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.101/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,354 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.122"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,354 - DEBUG - Finished Request
+2024-09-03 18:22:54,354 - DEBUG - GET http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.122/text {}
+2024-09-03 18:22:54,359 - DEBUG - http://localhost:63524 "GET /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.122/text HTTP/1.1" 200 23
+2024-09-03 18:22:54,359 - DEBUG - Remote response: status=200 | data={"value":"2024.08.29."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,359 - DEBUG - Finished Request
+2024-09-03 18:22:54,359 - DEBUG - 항목 4 처리 중: 제목 - 근로자 햇살론 질문이요 / 광고사절, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=474629675&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=4&search_sort=3&spq=0
+2024-09-03 18:22:54,359 - INFO - 중복 항목 건너뛰기: 4: 근로자 햇살론 질문이요 / 광고사절
+2024-09-03 18:22:54,359 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.102/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:22:54,363 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.102/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,363 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.123"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,363 - DEBUG - Finished Request
+2024-09-03 18:22:54,363 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.123/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:22:54,367 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.123/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,367 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.124"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,367 - DEBUG - Finished Request
+2024-09-03 18:22:54,367 - DEBUG - GET http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.124/text {}
+2024-09-03 18:22:54,370 - DEBUG - http://localhost:63524 "GET /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.124/text HTTP/1.1" 200 38
+2024-09-03 18:22:54,371 - DEBUG - Remote response: status=200 | data={"value":"20살 대출 가능한 곳"} | headers=HTTPHeaderDict({'Content-Length': '38', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,371 - DEBUG - Finished Request
+2024-09-03 18:22:54,371 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.124'}, 'href']}
+2024-09-03 18:22:54,373 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:22:54,374 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010504&docId=474605765&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=5&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,374 - DEBUG - Finished Request
+2024-09-03 18:22:54,374 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.102/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:22:54,379 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.102/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,379 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.125"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,379 - DEBUG - Finished Request
+2024-09-03 18:22:54,380 - DEBUG - GET http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.125/text {}
+2024-09-03 18:22:54,383 - DEBUG - http://localhost:63524 "GET /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.125/text HTTP/1.1" 200 23
+2024-09-03 18:22:54,383 - DEBUG - Remote response: status=200 | data={"value":"2024.09.02."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,383 - DEBUG - Finished Request
+2024-09-03 18:22:54,383 - DEBUG - 항목 5 처리 중: 제목 - 20살 대출 가능한 곳, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010504&docId=474605765&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=5&search_sort=3&spq=0
+2024-09-03 18:22:54,384 - INFO - 중복 항목 건너뛰기: 5: 20살 대출 가능한 곳
+2024-09-03 18:22:54,384 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.103/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:22:54,387 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.103/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,387 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.126"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,387 - DEBUG - Finished Request
+2024-09-03 18:22:54,387 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.126/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:22:54,391 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.126/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,391 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.127"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,391 - DEBUG - Finished Request
+2024-09-03 18:22:54,391 - DEBUG - GET http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.127/text {}
+2024-09-03 18:22:54,395 - DEBUG - http://localhost:63524 "GET /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.127/text HTTP/1.1" 200 33
+2024-09-03 18:22:54,395 - DEBUG - Remote response: status=200 | data={"value":"자동차담보대출"} | headers=HTTPHeaderDict({'Content-Length': '33', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,395 - DEBUG - Finished Request
+2024-09-03 18:22:54,395 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.127'}, 'href']}
+2024-09-03 18:22:54,397 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:22:54,397 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474580414&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=6&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,397 - DEBUG - Finished Request
+2024-09-03 18:22:54,397 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.103/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:22:54,401 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.103/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,401 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.128"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,401 - DEBUG - Finished Request
+2024-09-03 18:22:54,401 - DEBUG - GET http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.128/text {}
+2024-09-03 18:22:54,405 - DEBUG - http://localhost:63524 "GET /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.128/text HTTP/1.1" 200 23
+2024-09-03 18:22:54,405 - DEBUG - Remote response: status=200 | data={"value":"2024.08.28."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,405 - DEBUG - Finished Request
+2024-09-03 18:22:54,405 - DEBUG - 항목 6 처리 중: 제목 - 자동차담보대출, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474580414&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=6&search_sort=3&spq=0
+2024-09-03 18:22:54,405 - INFO - 중복 항목 건너뛰기: 6: 자동차담보대출
+2024-09-03 18:22:54,405 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.104/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:22:54,409 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.104/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,409 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.129"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,409 - DEBUG - Finished Request
+2024-09-03 18:22:54,409 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.129/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:22:54,413 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.129/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,413 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.130"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,413 - DEBUG - Finished Request
+2024-09-03 18:22:54,413 - DEBUG - GET http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.130/text {}
+2024-09-03 18:22:54,416 - DEBUG - http://localhost:63524 "GET /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.130/text HTTP/1.1" 200 35
+2024-09-03 18:22:54,416 - DEBUG - Remote response: status=200 | data={"value":"비상금 대출 질문"} | headers=HTTPHeaderDict({'Content-Length': '35', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,416 - DEBUG - Finished Request
+2024-09-03 18:22:54,416 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.130'}, 'href']}
+2024-09-03 18:22:54,419 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:22:54,419 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474517530&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=7&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,419 - DEBUG - Finished Request
+2024-09-03 18:22:54,419 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.104/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:22:54,422 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.104/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,422 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.131"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,422 - DEBUG - Finished Request
+2024-09-03 18:22:54,422 - DEBUG - GET http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.131/text {}
+2024-09-03 18:22:54,426 - DEBUG - http://localhost:63524 "GET /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.131/text HTTP/1.1" 200 23
+2024-09-03 18:22:54,426 - DEBUG - Remote response: status=200 | data={"value":"2024.08.27."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,426 - DEBUG - Finished Request
+2024-09-03 18:22:54,426 - DEBUG - 항목 7 처리 중: 제목 - 비상금 대출 질문, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474517530&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=7&search_sort=3&spq=0
+2024-09-03 18:22:54,426 - INFO - 중복 항목 건너뛰기: 7: 비상금 대출 질문
+2024-09-03 18:22:54,426 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.105/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:22:54,430 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.105/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,430 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.132"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,430 - DEBUG - Finished Request
+2024-09-03 18:22:54,430 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.132/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:22:54,433 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.132/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,433 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.133"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,433 - DEBUG - Finished Request
+2024-09-03 18:22:54,433 - DEBUG - GET http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.133/text {}
+2024-09-03 18:22:54,436 - DEBUG - http://localhost:63524 "GET /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.133/text HTTP/1.1" 200 28
+2024-09-03 18:22:54,436 - DEBUG - Remote response: status=200 | data={"value":"연체자 대출"} | headers=HTTPHeaderDict({'Content-Length': '28', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,436 - DEBUG - Finished Request
+2024-09-03 18:22:54,436 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.133'}, 'href']}
+2024-09-03 18:22:54,439 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:22:54,439 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=473677107&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=8&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,439 - DEBUG - Finished Request
+2024-09-03 18:22:54,439 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.105/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:22:54,445 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.105/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,445 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.134"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,445 - DEBUG - Finished Request
+2024-09-03 18:22:54,445 - DEBUG - GET http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.134/text {}
+2024-09-03 18:22:54,449 - DEBUG - http://localhost:63524 "GET /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.134/text HTTP/1.1" 200 23
+2024-09-03 18:22:54,450 - DEBUG - Remote response: status=200 | data={"value":"2024.08.29."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,450 - DEBUG - Finished Request
+2024-09-03 18:22:54,450 - DEBUG - 항목 8 처리 중: 제목 - 연체자 대출, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=473677107&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=8&search_sort=3&spq=0
+2024-09-03 18:22:54,450 - INFO - 중복 항목 건너뛰기: 8: 연체자 대출
+2024-09-03 18:22:54,450 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.106/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:22:54,453 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.106/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,454 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.135"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,454 - DEBUG - Finished Request
+2024-09-03 18:22:54,454 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.135/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:22:54,458 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.135/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,458 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.136"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,458 - DEBUG - Finished Request
+2024-09-03 18:22:54,458 - DEBUG - GET http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.136/text {}
+2024-09-03 18:22:54,462 - DEBUG - http://localhost:63524 "GET /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.136/text HTTP/1.1" 200 66
+2024-09-03 18:22:54,462 - DEBUG - Remote response: status=200 | data={"value":"웰컴저축은행 자동차 담보대출 질문이요"} | headers=HTTPHeaderDict({'Content-Length': '66', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,462 - DEBUG - Finished Request
+2024-09-03 18:22:54,462 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.136'}, 'href']}
+2024-09-03 18:22:54,465 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:22:54,465 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=465301629&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=9&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,465 - DEBUG - Finished Request
+2024-09-03 18:22:54,465 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.106/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:22:54,473 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.106/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,473 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.137"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,473 - DEBUG - Finished Request
+2024-09-03 18:22:54,473 - DEBUG - GET http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.137/text {}
+2024-09-03 18:22:54,479 - DEBUG - http://localhost:63524 "GET /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.137/text HTTP/1.1" 200 23
+2024-09-03 18:22:54,479 - DEBUG - Remote response: status=200 | data={"value":"2024.08.29."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,479 - DEBUG - Finished Request
+2024-09-03 18:22:54,479 - DEBUG - 항목 9 처리 중: 제목 - 웰컴저축은행 자동차 담보대출 질문이요, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=465301629&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=9&search_sort=3&spq=0
+2024-09-03 18:22:54,479 - INFO - 중복 항목 건너뛰기: 9: 웰컴저축은행 자동차 담보대출 질문이요
+2024-09-03 18:22:54,479 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.107/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:22:54,482 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.107/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,483 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.138"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,483 - DEBUG - Finished Request
+2024-09-03 18:22:54,483 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.138/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:22:54,486 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.138/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,486 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.139"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,486 - DEBUG - Finished Request
+2024-09-03 18:22:54,486 - DEBUG - GET http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.139/text {}
+2024-09-03 18:22:54,490 - DEBUG - http://localhost:63524 "GET /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.139/text HTTP/1.1" 200 67
+2024-09-03 18:22:54,490 - DEBUG - Remote response: status=200 | data={"value":"제가 토스랑 핀다로 대출 조회 jt저축은행"} | headers=HTTPHeaderDict({'Content-Length': '67', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,490 - DEBUG - Finished Request
+2024-09-03 18:22:54,490 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.139'}, 'href']}
+2024-09-03 18:22:54,493 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/execute/sync HTTP/1.1" 200 152
+2024-09-03 18:22:54,493 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=426661335&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=10&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '152', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,493 - DEBUG - Finished Request
+2024-09-03 18:22:54,493 - DEBUG - POST http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.107/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:22:54,497 - DEBUG - http://localhost:63524 "POST /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.107/element HTTP/1.1" 200 127
+2024-09-03 18:22:54,497 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.140"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,497 - DEBUG - Finished Request
+2024-09-03 18:22:54,497 - DEBUG - GET http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.140/text {}
+2024-09-03 18:22:54,501 - DEBUG - http://localhost:63524 "GET /session/d95cd25f23de22610ea4dc95034f4b94/element/f.7715E69A59AA90D8184FE82FB7C85823.d.6C11C0E852E2AA751A8EF57B20DD179D.e.140/text HTTP/1.1" 200 23
+2024-09-03 18:22:54,501 - DEBUG - Remote response: status=200 | data={"value":"2024.08.29."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,501 - DEBUG - Finished Request
+2024-09-03 18:22:54,501 - DEBUG - 항목 10 처리 중: 제목 - 제가 토스랑 핀다로 대출 조회 jt저축은행, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=426661335&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=10&search_sort=3&spq=0
+2024-09-03 18:22:54,501 - INFO - 중복 항목 건너뛰기: 10: 제가 토스랑 핀다로 대출 조회 jt저축은행
+2024-09-03 18:22:54,502 - INFO - 상세 정보 처리 시작
+2024-09-03 18:22:54,502 - INFO - 처리할 항목 수: 0
+2024-09-03 18:22:54,503 - INFO - 상세 정보 처리 완료
+2024-09-03 18:22:54,503 - INFO - 데이터베이스 최적화 시작
+2024-09-03 18:22:54,504 - INFO - 데이터베이스 최적화 완료
+2024-09-03 18:22:54,504 - INFO - 스크래핑 프로세스 정상 종료
+2024-09-03 18:22:54,504 - DEBUG - DELETE http://localhost:63524/session/d95cd25f23de22610ea4dc95034f4b94 {}
+2024-09-03 18:22:54,556 - DEBUG - http://localhost:63524 "DELETE /session/d95cd25f23de22610ea4dc95034f4b94 HTTP/1.1" 200 14
+2024-09-03 18:22:54,556 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:22:54,557 - DEBUG - Finished Request
+2024-09-03 18:22:54,576 - INFO - WebDriver 종료
+2024-09-03 18:22:54,576 - INFO - 데이터베이스 연결 종료
+2024-09-03 18:23:12,653 - INFO - 스크래핑 프로세스 시작
+2024-09-03 18:23:12,653 - INFO - 데이터베이스 및 WebDriver 초기화 시작
+2024-09-03 18:23:12,653 - INFO - ====== WebDriver manager ======
+2024-09-03 18:23:12,748 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-03 18:23:12,753 - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2024-09-03 18:23:12,786 - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 7051
+2024-09-03 18:23:12,790 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-03 18:23:12,791 - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2024-09-03 18:23:12,841 - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 7051
+2024-09-03 18:23:12,844 - INFO - Driver [/Users/finda/.wdm/drivers/chromedriver/mac64/128.0.6613.119/chromedriver-mac-arm64/chromedriver] found in cache
+2024-09-03 18:23:12,845 - DEBUG - Skipping Selenium Manager; path to chrome driver specified in Service class: /Users/finda/.wdm/drivers/chromedriver/mac64/128.0.6613.119/chromedriver-mac-arm64/chromedriver
+2024-09-03 18:23:12,847 - DEBUG - Started executable: `/Users/finda/.wdm/drivers/chromedriver/mac64/128.0.6613.119/chromedriver-mac-arm64/chromedriver` in a child process with pid: 65855 using 0 to output -3
+2024-09-03 18:23:13,210 - DEBUG - POST http://localhost:63687/session {'capabilities': {'firstMatch': [{}], 'alwaysMatch': {'browserName': 'chrome', 'pageLoadStrategy': <PageLoadStrategy.normal: 'normal'>, 'goog:chromeOptions': {'extensions': [], 'args': ['user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36']}}}}
+2024-09-03 18:23:13,211 - DEBUG - Starting new HTTP connection (1): localhost:63687
+2024-09-03 18:23:14,129 - DEBUG - http://localhost:63687 "POST /session HTTP/1.1" 200 892
+2024-09-03 18:23:14,131 - DEBUG - Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"128.0.6613.114","chrome":{"chromedriverVersion":"128.0.6613.119 (6e439cfca4deda5954b0c74cde9b521c03cb31ad-refs/branch-heads/6613@{#1464})","userDataDir":"/var/folders/wl/04j8pjwj5_7_pqh37yjh1mkr0000gn/T/.org.chromium.Chromium.OcBi3z"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:63702"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"mac","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"43dcb3d0d9be955744c2e25627ce2ddd"}} | headers=HTTPHeaderDict({'Content-Length': '892', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:14,132 - DEBUG - Finished Request
+2024-09-03 18:23:14,135 - INFO - 데이터베이스 및 WebDriver 초기화 완료
+2024-09-03 18:23:14,135 - INFO - 검색 URL 접근 시작: https://kin.naver.com/search/list.naver?query=%ED%95%80%EB%8B%A4&section=qna&period=1w&dirId=4&sort=date
+2024-09-03 18:23:14,135 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/url {'url': 'https://kin.naver.com/search/list.naver?query=%ED%95%80%EB%8B%A4&section=qna&period=1w&dirId=4&sort=...'}
+2024-09-03 18:23:16,650 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/url HTTP/1.1" 200 14
+2024-09-03 18:23:16,650 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,650 - DEBUG - Finished Request
+2024-09-03 18:23:16,651 - INFO - 검색 결과 페이지 로드 완료
+2024-09-03 18:23:16,651 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element {'using': 'css selector', 'value': '.basic1'}
+2024-09-03 18:23:16,656 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element HTTP/1.1" 200 126
+2024-09-03 18:23:16,657 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.99"}} | headers=HTTPHeaderDict({'Content-Length': '126', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,657 - DEBUG - Finished Request
+2024-09-03 18:23:16,657 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.99/elements {'using': 'tag name', 'value': 'li'}
+2024-09-03 18:23:16,664 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.99/elements HTTP/1.1" 200 1191
+2024-09-03 18:23:16,664 - DEBUG - Remote response: status=200 | data={"value":[{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.100"},{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.101"},{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.102"},{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.103"},{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.104"},{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.105"},{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.106"},{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.107"},{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.108"},{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.109"}]} | headers=HTTPHeaderDict({'Content-Length': '1191', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,664 - DEBUG - Finished Request
+2024-09-03 18:23:16,664 - INFO - 검색 결과 항목 수: 10
+2024-09-03 18:23:16,664 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.100/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:23:16,670 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.100/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,670 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.110"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,670 - DEBUG - Finished Request
+2024-09-03 18:23:16,670 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.110/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:23:16,677 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.110/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,677 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.111"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,677 - DEBUG - Finished Request
+2024-09-03 18:23:16,677 - DEBUG - GET http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.111/text {}
+2024-09-03 18:23:16,684 - DEBUG - http://localhost:63687 "GET /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.111/text HTTP/1.1" 200 66
+2024-09-03 18:23:16,684 - DEBUG - Remote response: status=200 | data={"value":"대환대출이나 직장인환승론 가능할까요?"} | headers=HTTPHeaderDict({'Content-Length': '66', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,684 - DEBUG - Finished Request
+2024-09-03 18:23:16,685 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.111'}, 'href']}
+2024-09-03 18:23:16,689 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:23:16,689 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=474858315&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=1&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,689 - DEBUG - Finished Request
+2024-09-03 18:23:16,689 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.100/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:23:16,695 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.100/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,695 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.112"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,695 - DEBUG - Finished Request
+2024-09-03 18:23:16,695 - DEBUG - GET http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.112/text {}
+2024-09-03 18:23:16,699 - DEBUG - http://localhost:63687 "GET /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.112/text HTTP/1.1" 200 23
+2024-09-03 18:23:16,699 - DEBUG - Remote response: status=200 | data={"value":"2024.09.03."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,699 - DEBUG - Finished Request
+2024-09-03 18:23:16,699 - DEBUG - 항목 1 처리 중: 제목 - 대환대출이나 직장인환승론 가능할까요?, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=474858315&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=1&search_sort=3&spq=0
+2024-09-03 18:23:16,700 - INFO - 기본 정보 저장 성공: 1 - 대환대출이나 직장인환승론 가능할까요?
+2024-09-03 18:23:16,700 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.101/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:23:16,703 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.101/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,703 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.113"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,703 - DEBUG - Finished Request
+2024-09-03 18:23:16,703 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.113/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:23:16,707 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.113/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,707 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.114"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,707 - DEBUG - Finished Request
+2024-09-03 18:23:16,707 - DEBUG - GET http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.114/text {}
+2024-09-03 18:23:16,712 - DEBUG - http://localhost:63687 "GET /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.114/text HTTP/1.1" 200 30
+2024-09-03 18:23:16,712 - DEBUG - Remote response: status=200 | data={"value":"대출관련해서"} | headers=HTTPHeaderDict({'Content-Length': '30', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,712 - DEBUG - Finished Request
+2024-09-03 18:23:16,712 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.114'}, 'href']}
+2024-09-03 18:23:16,715 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:23:16,716 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010506&docId=474851084&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=2&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,716 - DEBUG - Finished Request
+2024-09-03 18:23:16,716 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.101/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:23:16,719 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.101/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,719 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.115"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,719 - DEBUG - Finished Request
+2024-09-03 18:23:16,719 - DEBUG - GET http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.115/text {}
+2024-09-03 18:23:16,723 - DEBUG - http://localhost:63687 "GET /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.115/text HTTP/1.1" 200 23
+2024-09-03 18:23:16,723 - DEBUG - Remote response: status=200 | data={"value":"2024.09.03."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,723 - DEBUG - Finished Request
+2024-09-03 18:23:16,723 - DEBUG - 항목 2 처리 중: 제목 - 대출관련해서, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010506&docId=474851084&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=2&search_sort=3&spq=0
+2024-09-03 18:23:16,724 - INFO - 기본 정보 저장 성공: 2 - 대출관련해서
+2024-09-03 18:23:16,724 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.102/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:23:16,728 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.102/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,728 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.116"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,728 - DEBUG - Finished Request
+2024-09-03 18:23:16,728 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.116/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:23:16,731 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.116/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,731 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.117"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,732 - DEBUG - Finished Request
+2024-09-03 18:23:16,732 - DEBUG - GET http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.117/text {}
+2024-09-03 18:23:16,735 - DEBUG - http://localhost:63687 "GET /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.117/text HTTP/1.1" 200 59
+2024-09-03 18:23:16,735 - DEBUG - Remote response: status=200 | data={"value":"주택담보대출 갈아타기 정부인증..."} | headers=HTTPHeaderDict({'Content-Length': '59', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,735 - DEBUG - Finished Request
+2024-09-03 18:23:16,735 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.117'}, 'href']}
+2024-09-03 18:23:16,737 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:23:16,737 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474656191&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=3&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,737 - DEBUG - Finished Request
+2024-09-03 18:23:16,737 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.102/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:23:16,743 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.102/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,743 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.118"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,743 - DEBUG - Finished Request
+2024-09-03 18:23:16,743 - DEBUG - GET http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.118/text {}
+2024-09-03 18:23:16,747 - DEBUG - http://localhost:63687 "GET /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.118/text HTTP/1.1" 200 23
+2024-09-03 18:23:16,747 - DEBUG - Remote response: status=200 | data={"value":"2024.09.02."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,747 - DEBUG - Finished Request
+2024-09-03 18:23:16,747 - DEBUG - 항목 3 처리 중: 제목 - 주택담보대출 갈아타기 정부인증..., URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474656191&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=3&search_sort=3&spq=0
+2024-09-03 18:23:16,748 - INFO - 기본 정보 저장 성공: 3 - 주택담보대출 갈아타기 정부인증...
+2024-09-03 18:23:16,748 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.103/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:23:16,752 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.103/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,752 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.122"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,752 - DEBUG - Finished Request
+2024-09-03 18:23:16,752 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.122/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:23:16,756 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.122/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,756 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.123"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,756 - DEBUG - Finished Request
+2024-09-03 18:23:16,756 - DEBUG - GET http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.123/text {}
+2024-09-03 18:23:16,760 - DEBUG - http://localhost:63687 "GET /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.123/text HTTP/1.1" 200 59
+2024-09-03 18:23:16,760 - DEBUG - Remote response: status=200 | data={"value":"근로자 햇살론 질문이요 / 광고사절"} | headers=HTTPHeaderDict({'Content-Length': '59', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,760 - DEBUG - Finished Request
+2024-09-03 18:23:16,761 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.123'}, 'href']}
+2024-09-03 18:23:16,763 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:23:16,763 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=474629675&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=4&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,763 - DEBUG - Finished Request
+2024-09-03 18:23:16,763 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.103/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:23:16,767 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.103/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,767 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.124"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,767 - DEBUG - Finished Request
+2024-09-03 18:23:16,767 - DEBUG - GET http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.124/text {}
+2024-09-03 18:23:16,771 - DEBUG - http://localhost:63687 "GET /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.124/text HTTP/1.1" 200 23
+2024-09-03 18:23:16,771 - DEBUG - Remote response: status=200 | data={"value":"2024.08.29."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,771 - DEBUG - Finished Request
+2024-09-03 18:23:16,771 - DEBUG - 항목 4 처리 중: 제목 - 근로자 햇살론 질문이요 / 광고사절, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=474629675&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=4&search_sort=3&spq=0
+2024-09-03 18:23:16,772 - INFO - 기본 정보 저장 성공: 4 - 근로자 햇살론 질문이요 / 광고사절
+2024-09-03 18:23:16,772 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.104/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:23:16,777 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.104/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,777 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.125"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,777 - DEBUG - Finished Request
+2024-09-03 18:23:16,777 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.125/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:23:16,781 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.125/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,781 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.126"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,781 - DEBUG - Finished Request
+2024-09-03 18:23:16,781 - DEBUG - GET http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.126/text {}
+2024-09-03 18:23:16,784 - DEBUG - http://localhost:63687 "GET /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.126/text HTTP/1.1" 200 38
+2024-09-03 18:23:16,784 - DEBUG - Remote response: status=200 | data={"value":"20살 대출 가능한 곳"} | headers=HTTPHeaderDict({'Content-Length': '38', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,784 - DEBUG - Finished Request
+2024-09-03 18:23:16,784 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.126'}, 'href']}
+2024-09-03 18:23:16,787 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:23:16,787 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010504&docId=474605765&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=5&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,787 - DEBUG - Finished Request
+2024-09-03 18:23:16,787 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.104/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:23:16,791 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.104/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,791 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.127"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,791 - DEBUG - Finished Request
+2024-09-03 18:23:16,791 - DEBUG - GET http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.127/text {}
+2024-09-03 18:23:16,795 - DEBUG - http://localhost:63687 "GET /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.127/text HTTP/1.1" 200 23
+2024-09-03 18:23:16,795 - DEBUG - Remote response: status=200 | data={"value":"2024.08.29."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,795 - DEBUG - Finished Request
+2024-09-03 18:23:16,796 - DEBUG - 항목 5 처리 중: 제목 - 20살 대출 가능한 곳, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010504&docId=474605765&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=5&search_sort=3&spq=0
+2024-09-03 18:23:16,796 - INFO - 기본 정보 저장 성공: 5 - 20살 대출 가능한 곳
+2024-09-03 18:23:16,796 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.105/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:23:16,800 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.105/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,800 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.128"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,800 - DEBUG - Finished Request
+2024-09-03 18:23:16,800 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.128/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:23:16,804 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.128/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,804 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.129"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,804 - DEBUG - Finished Request
+2024-09-03 18:23:16,804 - DEBUG - GET http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.129/text {}
+2024-09-03 18:23:16,809 - DEBUG - http://localhost:63687 "GET /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.129/text HTTP/1.1" 200 33
+2024-09-03 18:23:16,809 - DEBUG - Remote response: status=200 | data={"value":"자동차담보대출"} | headers=HTTPHeaderDict({'Content-Length': '33', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,809 - DEBUG - Finished Request
+2024-09-03 18:23:16,809 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.129'}, 'href']}
+2024-09-03 18:23:16,812 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:23:16,812 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474580414&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=6&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,812 - DEBUG - Finished Request
+2024-09-03 18:23:16,812 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.105/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:23:16,816 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.105/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,816 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.130"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,816 - DEBUG - Finished Request
+2024-09-03 18:23:16,816 - DEBUG - GET http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.130/text {}
+2024-09-03 18:23:16,820 - DEBUG - http://localhost:63687 "GET /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.130/text HTTP/1.1" 200 23
+2024-09-03 18:23:16,820 - DEBUG - Remote response: status=200 | data={"value":"2024.08.28."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,820 - DEBUG - Finished Request
+2024-09-03 18:23:16,820 - DEBUG - 항목 6 처리 중: 제목 - 자동차담보대출, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474580414&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=6&search_sort=3&spq=0
+2024-09-03 18:23:16,820 - INFO - 기본 정보 저장 성공: 6 - 자동차담보대출
+2024-09-03 18:23:16,821 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.106/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:23:16,825 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.106/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,825 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.131"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,825 - DEBUG - Finished Request
+2024-09-03 18:23:16,825 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.131/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:23:16,828 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.131/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,829 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.132"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,829 - DEBUG - Finished Request
+2024-09-03 18:23:16,829 - DEBUG - GET http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.132/text {}
+2024-09-03 18:23:16,832 - DEBUG - http://localhost:63687 "GET /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.132/text HTTP/1.1" 200 35
+2024-09-03 18:23:16,832 - DEBUG - Remote response: status=200 | data={"value":"비상금 대출 질문"} | headers=HTTPHeaderDict({'Content-Length': '35', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,832 - DEBUG - Finished Request
+2024-09-03 18:23:16,832 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.132'}, 'href']}
+2024-09-03 18:23:16,834 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:23:16,835 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474517530&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=7&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,835 - DEBUG - Finished Request
+2024-09-03 18:23:16,835 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.106/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:23:16,838 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.106/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,838 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.133"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,838 - DEBUG - Finished Request
+2024-09-03 18:23:16,838 - DEBUG - GET http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.133/text {}
+2024-09-03 18:23:16,844 - DEBUG - http://localhost:63687 "GET /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.133/text HTTP/1.1" 200 23
+2024-09-03 18:23:16,844 - DEBUG - Remote response: status=200 | data={"value":"2024.08.27."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,844 - DEBUG - Finished Request
+2024-09-03 18:23:16,844 - DEBUG - 항목 7 처리 중: 제목 - 비상금 대출 질문, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474517530&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=7&search_sort=3&spq=0
+2024-09-03 18:23:16,845 - INFO - 기본 정보 저장 성공: 7 - 비상금 대출 질문
+2024-09-03 18:23:16,845 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.107/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:23:16,848 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.107/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,848 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.134"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,848 - DEBUG - Finished Request
+2024-09-03 18:23:16,848 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.134/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:23:16,852 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.134/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,852 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.135"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,852 - DEBUG - Finished Request
+2024-09-03 18:23:16,852 - DEBUG - GET http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.135/text {}
+2024-09-03 18:23:16,855 - DEBUG - http://localhost:63687 "GET /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.135/text HTTP/1.1" 200 28
+2024-09-03 18:23:16,855 - DEBUG - Remote response: status=200 | data={"value":"연체자 대출"} | headers=HTTPHeaderDict({'Content-Length': '28', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,855 - DEBUG - Finished Request
+2024-09-03 18:23:16,855 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.135'}, 'href']}
+2024-09-03 18:23:16,858 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:23:16,858 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=473677107&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=8&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,858 - DEBUG - Finished Request
+2024-09-03 18:23:16,858 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.107/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:23:16,862 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.107/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,862 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.136"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,862 - DEBUG - Finished Request
+2024-09-03 18:23:16,862 - DEBUG - GET http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.136/text {}
+2024-09-03 18:23:16,866 - DEBUG - http://localhost:63687 "GET /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.136/text HTTP/1.1" 200 23
+2024-09-03 18:23:16,866 - DEBUG - Remote response: status=200 | data={"value":"2024.08.29."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,866 - DEBUG - Finished Request
+2024-09-03 18:23:16,866 - DEBUG - 항목 8 처리 중: 제목 - 연체자 대출, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=473677107&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=8&search_sort=3&spq=0
+2024-09-03 18:23:16,867 - INFO - 기본 정보 저장 성공: 8 - 연체자 대출
+2024-09-03 18:23:16,867 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.108/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:23:16,871 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.108/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,871 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.137"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,871 - DEBUG - Finished Request
+2024-09-03 18:23:16,871 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.137/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:23:16,876 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.137/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,876 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.138"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,876 - DEBUG - Finished Request
+2024-09-03 18:23:16,876 - DEBUG - GET http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.138/text {}
+2024-09-03 18:23:16,879 - DEBUG - http://localhost:63687 "GET /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.138/text HTTP/1.1" 200 66
+2024-09-03 18:23:16,879 - DEBUG - Remote response: status=200 | data={"value":"웰컴저축은행 자동차 담보대출 질문이요"} | headers=HTTPHeaderDict({'Content-Length': '66', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,879 - DEBUG - Finished Request
+2024-09-03 18:23:16,879 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.138'}, 'href']}
+2024-09-03 18:23:16,882 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/execute/sync HTTP/1.1" 200 151
+2024-09-03 18:23:16,882 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=465301629&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=9&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '151', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,882 - DEBUG - Finished Request
+2024-09-03 18:23:16,882 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.108/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:23:16,886 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.108/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,886 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.139"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,886 - DEBUG - Finished Request
+2024-09-03 18:23:16,886 - DEBUG - GET http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.139/text {}
+2024-09-03 18:23:16,890 - DEBUG - http://localhost:63687 "GET /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.139/text HTTP/1.1" 200 23
+2024-09-03 18:23:16,890 - DEBUG - Remote response: status=200 | data={"value":"2024.08.29."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,890 - DEBUG - Finished Request
+2024-09-03 18:23:16,890 - DEBUG - 항목 9 처리 중: 제목 - 웰컴저축은행 자동차 담보대출 질문이요, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=465301629&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=9&search_sort=3&spq=0
+2024-09-03 18:23:16,892 - INFO - 기본 정보 저장 성공: 9 - 웰컴저축은행 자동차 담보대출 질문이요
+2024-09-03 18:23:16,892 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.109/element {'using': 'tag name', 'value': 'dt'}
+2024-09-03 18:23:16,899 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.109/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,899 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.140"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,899 - DEBUG - Finished Request
+2024-09-03 18:23:16,899 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.140/element {'using': 'tag name', 'value': 'a'}
+2024-09-03 18:23:16,903 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.140/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,903 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.141"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,903 - DEBUG - Finished Request
+2024-09-03 18:23:16,903 - DEBUG - GET http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.141/text {}
+2024-09-03 18:23:16,910 - DEBUG - http://localhost:63687 "GET /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.141/text HTTP/1.1" 200 67
+2024-09-03 18:23:16,910 - DEBUG - Remote response: status=200 | data={"value":"제가 토스랑 핀다로 대출 조회 jt저축은행"} | headers=HTTPHeaderDict({'Content-Length': '67', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,910 - DEBUG - Finished Request
+2024-09-03 18:23:16,910 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/execute/sync {'script': '/* getAttribute */return (function(){return (function(){var d=this||self;function f(a,b){function c(...', 'args': [{'element-6066-11e4-a52e-4f735466cecf': 'f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.141'}, 'href']}
+2024-09-03 18:23:16,913 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/execute/sync HTTP/1.1" 200 152
+2024-09-03 18:23:16,913 - DEBUG - Remote response: status=200 | data={"value":"https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=426661335&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=10&search_sort=3&spq=0"} | headers=HTTPHeaderDict({'Content-Length': '152', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,913 - DEBUG - Finished Request
+2024-09-03 18:23:16,913 - DEBUG - POST http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.109/element {'using': 'css selector', 'value': '.txt_inline'}
+2024-09-03 18:23:16,917 - DEBUG - http://localhost:63687 "POST /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.109/element HTTP/1.1" 200 127
+2024-09-03 18:23:16,917 - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.142"}} | headers=HTTPHeaderDict({'Content-Length': '127', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,917 - DEBUG - Finished Request
+2024-09-03 18:23:16,917 - DEBUG - GET http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.142/text {}
+2024-09-03 18:23:16,921 - DEBUG - http://localhost:63687 "GET /session/43dcb3d0d9be955744c2e25627ce2ddd/element/f.7A08D818CD76518386F05499AE7DDCDC.d.EB529071B771A39E107BB89D5E99F6E9.e.142/text HTTP/1.1" 200 23
+2024-09-03 18:23:16,921 - DEBUG - Remote response: status=200 | data={"value":"2024.08.29."} | headers=HTTPHeaderDict({'Content-Length': '23', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:16,921 - DEBUG - Finished Request
+2024-09-03 18:23:16,921 - DEBUG - 항목 10 처리 중: 제목 - 제가 토스랑 핀다로 대출 조회 jt저축은행, URL - https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=426661335&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=10&search_sort=3&spq=0
+2024-09-03 18:23:16,923 - INFO - 기본 정보 저장 성공: 10 - 제가 토스랑 핀다로 대출 조회 jt저축은행
+2024-09-03 18:23:16,923 - INFO - 상세 정보 처리 시작
+2024-09-03 18:23:16,923 - INFO - 처리할 항목 수: 10
+2024-09-03 18:23:16,924 - INFO - URL https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=474858315&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=1&search_sort=3&spq=0 (ID: 23) 상세 정보 업데이트 시작
+2024-09-03 18:23:16,924 - INFO - URL https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010506&docId=474851084&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=2&search_sort=3&spq=0 (ID: 24) 상세 정보 업데이트 시작
+2024-09-03 18:23:16,924 - INFO - URL https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474656191&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=3&search_sort=3&spq=0 (ID: 25) 상세 정보 업데이트 시작
+2024-09-03 18:23:16,924 - INFO - URL https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=474629675&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=4&search_sort=3&spq=0 (ID: 26) 상세 정보 업데이트 시작
+2024-09-03 18:23:16,924 - INFO - URL https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010504&docId=474605765&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=5&search_sort=3&spq=0 (ID: 27) 상세 정보 업데이트 시작
+2024-09-03 18:23:16,926 - DEBUG - Starting new HTTPS connection (1): kin.naver.com:443
+2024-09-03 18:23:16,927 - DEBUG - Starting new HTTPS connection (1): kin.naver.com:443
+2024-09-03 18:23:16,927 - DEBUG - Starting new HTTPS connection (1): kin.naver.com:443
+2024-09-03 18:23:16,927 - DEBUG - Starting new HTTPS connection (1): kin.naver.com:443
+2024-09-03 18:23:16,927 - DEBUG - Starting new HTTPS connection (1): kin.naver.com:443
+2024-09-03 18:23:17,432 - DEBUG - https://kin.naver.com:443 "GET /qna/detail.naver?d1id=4&dirId=4010503&docId=474858315&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=1&search_sort=3&spq=0 HTTP/1.1" 200 72167
+2024-09-03 18:23:17,436 - DEBUG - https://kin.naver.com:443 "GET /qna/detail.naver?d1id=4&dirId=4010502&docId=474656191&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=3&search_sort=3&spq=0 HTTP/1.1" 200 65959
+2024-09-03 18:23:17,441 - DEBUG - https://kin.naver.com:443 "GET /qna/detail.naver?d1id=4&dirId=4010506&docId=474851084&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=2&search_sort=3&spq=0 HTTP/1.1" 200 66871
+2024-09-03 18:23:17,458 - INFO - URL https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=474858315&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=1&search_sort=3&spq=0 (ID: 23) 상세 정보 추출 완료
+2024-09-03 18:23:17,459 - INFO - URL https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474656191&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=3&search_sort=3&spq=0 (ID: 25) 상세 정보 추출 완료
+2024-09-03 18:23:17,459 - INFO - URL https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474580414&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=6&search_sort=3&spq=0 (ID: 28) 상세 정보 업데이트 시작
+2024-09-03 18:23:17,459 - INFO - URL https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474517530&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=7&search_sort=3&spq=0 (ID: 29) 상세 정보 업데이트 시작
+2024-09-03 18:23:17,460 - DEBUG - Starting new HTTPS connection (1): kin.naver.com:443
+2024-09-03 18:23:17,460 - INFO - ID 23의 상세 정보 업데이트 성공
+2024-09-03 18:23:17,460 - DEBUG - Starting new HTTPS connection (1): kin.naver.com:443
+2024-09-03 18:23:17,461 - INFO - ID 25의 상세 정보 업데이트 성공
+2024-09-03 18:23:17,464 - INFO - URL https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010506&docId=474851084&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=2&search_sort=3&spq=0 (ID: 24) 상세 정보 추출 완료
+2024-09-03 18:23:17,464 - INFO - URL https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=473677107&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=8&search_sort=3&spq=0 (ID: 30) 상세 정보 업데이트 시작
+2024-09-03 18:23:17,465 - DEBUG - Starting new HTTPS connection (1): kin.naver.com:443
+2024-09-03 18:23:17,465 - INFO - ID 24의 상세 정보 업데이트 성공
+2024-09-03 18:23:17,474 - DEBUG - https://kin.naver.com:443 "GET /qna/detail.naver?d1id=4&dirId=4010504&docId=474605765&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=5&search_sort=3&spq=0 HTTP/1.1" 200 77075
+2024-09-03 18:23:17,496 - INFO - URL https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010504&docId=474605765&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=5&search_sort=3&spq=0 (ID: 27) 상세 정보 추출 완료
+2024-09-03 18:23:17,497 - DEBUG - https://kin.naver.com:443 "GET /qna/detail.naver?d1id=4&dirId=4010503&docId=474629675&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=4&search_sort=3&spq=0 HTTP/1.1" 200 None
+2024-09-03 18:23:17,497 - INFO - URL https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=465301629&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=9&search_sort=3&spq=0 (ID: 31) 상세 정보 업데이트 시작
+2024-09-03 18:23:17,498 - DEBUG - Starting new HTTPS connection (1): kin.naver.com:443
+2024-09-03 18:23:17,498 - INFO - ID 27의 상세 정보 업데이트 성공
+2024-09-03 18:23:17,537 - INFO - URL https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=474629675&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=4&search_sort=3&spq=0 (ID: 26) 상세 정보 추출 완료
+2024-09-03 18:23:17,537 - INFO - URL https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=426661335&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=10&search_sort=3&spq=0 (ID: 32) 상세 정보 업데이트 시작
+2024-09-03 18:23:17,538 - DEBUG - Starting new HTTPS connection (1): kin.naver.com:443
+2024-09-03 18:23:17,538 - INFO - ID 26의 상세 정보 업데이트 성공
+2024-09-03 18:23:17,948 - DEBUG - https://kin.naver.com:443 "GET /qna/detail.naver?d1id=4&dirId=4010503&docId=473677107&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=8&search_sort=3&spq=0 HTTP/1.1" 200 75123
+2024-09-03 18:23:17,955 - DEBUG - https://kin.naver.com:443 "GET /qna/detail.naver?d1id=4&dirId=4010502&docId=474517530&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=7&search_sort=3&spq=0 HTTP/1.1" 200 75795
+2024-09-03 18:23:17,957 - DEBUG - https://kin.naver.com:443 "GET /qna/detail.naver?d1id=4&dirId=4010502&docId=474580414&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=6&search_sort=3&spq=0 HTTP/1.1" 200 None
+2024-09-03 18:23:17,960 - DEBUG - https://kin.naver.com:443 "GET /qna/detail.naver?d1id=4&dirId=4010502&docId=465301629&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=9&search_sort=3&spq=0 HTTP/1.1" 200 72823
+2024-09-03 18:23:17,963 - DEBUG - https://kin.naver.com:443 "GET /qna/detail.naver?d1id=4&dirId=4010502&docId=426661335&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=10&search_sort=3&spq=0 HTTP/1.1" 200 73669
+2024-09-03 18:23:18,012 - INFO - URL https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474517530&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=7&search_sort=3&spq=0 (ID: 29) 상세 정보 추출 완료
+2024-09-03 18:23:18,013 - INFO - ID 29의 상세 정보 업데이트 성공
+2024-09-03 18:23:18,016 - INFO - URL https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=426661335&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=10&search_sort=3&spq=0 (ID: 32) 상세 정보 추출 완료
+2024-09-03 18:23:18,016 - INFO - URL https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010503&docId=473677107&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=8&search_sort=3&spq=0 (ID: 30) 상세 정보 추출 완료
+2024-09-03 18:23:18,016 - INFO - ID 32의 상세 정보 업데이트 성공
+2024-09-03 18:23:18,017 - INFO - ID 30의 상세 정보 업데이트 성공
+2024-09-03 18:23:18,018 - INFO - URL https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=474580414&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=6&search_sort=3&spq=0 (ID: 28) 상세 정보 추출 완료
+2024-09-03 18:23:18,018 - INFO - ID 28의 상세 정보 업데이트 성공
+2024-09-03 18:23:18,022 - INFO - URL https://kin.naver.com/qna/detail.naver?d1id=4&dirId=4010502&docId=465301629&qb=7ZWA64uk&enc=utf8&section=kin.qna&rank=9&search_sort=3&spq=0 (ID: 31) 상세 정보 추출 완료
+2024-09-03 18:23:18,023 - INFO - ID 31의 상세 정보 업데이트 성공
+2024-09-03 18:23:18,023 - INFO - 상세 정보 처리 완료
+2024-09-03 18:23:18,023 - INFO - 데이터베이스 최적화 시작
+2024-09-03 18:23:18,024 - INFO - 데이터베이스 최적화 완료
+2024-09-03 18:23:18,024 - INFO - 스크래핑 프로세스 정상 종료
+2024-09-03 18:23:18,024 - DEBUG - DELETE http://localhost:63687/session/43dcb3d0d9be955744c2e25627ce2ddd {}
+2024-09-03 18:23:18,079 - DEBUG - http://localhost:63687 "DELETE /session/43dcb3d0d9be955744c2e25627ce2ddd HTTP/1.1" 200 14
+2024-09-03 18:23:18,079 - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2024-09-03 18:23:18,080 - DEBUG - Finished Request
+2024-09-03 18:23:18,113 - INFO - WebDriver 종료
+2024-09-03 18:23:18,113 - INFO - 데이터베이스 연결 종료
